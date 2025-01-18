@@ -1,4 +1,4 @@
-package com.example.accessingdatarest;
+package luveiga.com.SpringDataRest;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
